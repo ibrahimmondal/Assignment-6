@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+*{
+  font-family: Roboto;
+}
+body{
+    margin: 0px;
+    
+}
+.header-section{
+    background-color: #FEFFF5;
+    text-align: center;
+}
+.header-section h1{
+color: #0A8080;
+font-family: Poppins;
+font-size: 48px;
+font-weight: 700;
+line-height: 72px;
+text-align: center;
+}
+.header-section p{
+font-family: Poppins;
+font-size: 18px;
+font-weight: 400;
+line-height: 27px;
+text-align: center;
+}
+.header-section a, .btn{
+text-decoration: none;
+font-family: Poppins;
+font-size: 18px;
+box-shadow: 0px 4px 4px 0px #00000033;
+line-height: 27px;
+color: #fff;
+background-color: #0A8080;
+border: none;
+border-radius: 10px;
+padding: 6px 18px;
+margin-top:25px;
+}
+.header-section p{
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: center;
+
+}
+.blog-section h2{
+  color: #0A8080;
+  font-family: Poppins;
+font-size: 36px;
+font-weight: 700;
+line-height: 54px;
+text-align: center;
+margin-top: 65px;
+margin-bottom:78px;
+}
+.blog{
+  background-color: #FEFFF5;
+  margin: auto;
+  max-width: 942px;
+  padding: 24px 40px;
+  border-radius:10px;
+  margin-bottom: 30px;
+}
+.blog h3{
+  font-family: Poppins;
+font-size: 24px;
+font-weight: 700;
+line-height: 36px;
+color: #000 ;
+margin-bottom: 10px;
+}
+.blog p{
+  font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+
+}
+.content{
+  max-width: 791px;
+  margin-bottom: 10px;
+}
+footer{
+  background-color: #0A8080;
+  text-align: center;
+  margin-top: 70px;
+}
+footer p{
+font-family: Poppins;
+font-size: 18px;
+font-weight: 400;
+line-height: 27px;
+text-align: center;
+color: #fff;
+padding: 13px 0px;
+margin: 0px;
+}
